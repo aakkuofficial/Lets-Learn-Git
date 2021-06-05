@@ -1,4 +1,4 @@
 main()
 {
-    int
+    int a,b,j;
 }
